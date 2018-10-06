@@ -1,0 +1,99 @@
+@import url('https://fonts.googleapis.com/css?family=Great+Vibes');
+* {
+    margin: 0;
+    padding: 0;
+    background-color: aqua;
+  }
+
+  /*Nav*/
+ nav{
+      
+      margin: 10px 0px 10px 350px;
+}
+  nav ul{
+      list-style-type: none;
+      text-align: center;
+      display: block;
+      margin-right:  -560px;
+  }
+  nav li{
+      display: inline-block;
+      
+  }
+  /*body*/
+body{
+    width: 800px;
+    margin: auto;
+}
+body h1{
+    text-align: center;
+    color: #497eea;
+    margin-bottom: 19px;
+}
+h2{
+    text-align: center;
+    color: blue;
+    text-decoration: underline;
+    margin-bottom: 1em;
+    margin-top: 1em;
+}
+    
+}
+h3{
+    text-align: center;
+    text-decoration: underline;
+    color: #d40d0d;
+    margin-bottom: 1em;
+    
+}
+
+
+img {
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    height: 300px;
+    width: 200px;
+
+    display: block;
+    margin-left: auto;
+    margin-right:auto;
+    margin-bottom: 15px;
+}
+/*Bai viet*/
+.centermain{
+    font-weight: bold;
+    
+
+}
+/* */
+.bright{
+    color: #d40d0d;
+    
+}
+
+.spl-linka{
+    color: white;
+    padding: 5px;
+    border-style: none;
+    text-decoration: none;
+    background-color: #7f7f7f;
+}
+.spl-linkb{
+    color: white;
+    padding: 5px;
+    border-style: none;
+    text-decoration: none;
+    background-color:orangered;
+}
+.interesting ol{
+    font-family: 'Great Vibes', cursive;
+    color: blue;
+    font-size: 20px;
+    font-weight:600;
+    
+
+    
+    
+
+  
